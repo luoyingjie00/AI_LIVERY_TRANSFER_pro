@@ -1,0 +1,5 @@
+{
+  "name": "AI 智能涂装迁移 Pro",
+  "description": "一款专业的 AI 工具，可将参考图上的图案、图形和 CMF（颜色、材质、工艺）迁移到指定产品上，同时保持其原始几何形状不变。",
+  "requestFramePermissions": []
+}
